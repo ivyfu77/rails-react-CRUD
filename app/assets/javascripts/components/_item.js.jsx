@@ -1,3 +1,4 @@
+//Define the minimum Item component
 class Item extends React.Component {
 
 	constructor() {
